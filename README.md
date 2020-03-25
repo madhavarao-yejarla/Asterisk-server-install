@@ -14,6 +14,9 @@ SIP is an application layer protocol that uses UDP or TCP for traffic. By defaul
 SIP is ASCII based and very similar to the HTTP protocol as it uses a Request/Response Model. Requests to the SIP client are made through SIP URI via a user-agent similar to an HTTP request made by a web browser.
 # Documentation
 
+# installation requirements 
+
+CentOS 7 minimal version
 
 # Installation
 
