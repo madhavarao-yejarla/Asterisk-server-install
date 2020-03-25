@@ -12,12 +12,12 @@ Understanding the SIP Protocol
 The Session Initiation Protocol (SIP) allows us to establish, end or change voice or video calls. The voice or video traffic is transmitted via the Real Time Protocol (RTP) protocol.
 SIP is an application layer protocol that uses UDP or TCP for traffic. By default, SIP uses port 5060 UDP/TCP for unencrypted traffic or port 5061 for TLS encrypted traffic. As we will see later, Man-in-the-Middle (MITM) attack vectors exist for all types of communication, including VoIP/SIP. Therefore, encryption is a necessary compensating control to have in place regardless of the environment or service method.
 SIP is ASCII based and very similar to the HTTP protocol as it uses a Request/Response Model. Requests to the SIP client are made through SIP URI via a user-agent similar to an HTTP request made by a web browser.
+# Documentation
 
-#Documentation
 
-
-#Installation
+# Installation
 
 sh iinstall.sh
 
 After Running above command then type "y" otherwise script it won't run.
+
