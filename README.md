@@ -20,3 +20,4 @@ SIP is ASCII based and very similar to the HTTP protocol as it uses a Request/Re
 
 sh iinstall.sh
 
+After Running above command then type "y" otherwise script it won't run.
